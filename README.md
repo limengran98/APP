@@ -8,6 +8,7 @@ APP is a unified framework to jointly address **heterophily** and **missing node
 * **ARS** – *Adaptive Representation Synergy* for prototype-guided fusion.
 
 ---
+### ⚠️ Due to the double-blind review policy, the complete dataset and trainable parameters will be released once the paper is published.  
 
 ## 📌 Requirements
 
