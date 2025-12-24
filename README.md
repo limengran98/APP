@@ -65,6 +65,8 @@ The code supports multiple graph datasets:
 * `Minesweeper`
 * `Tolokers`
 * `Squirrel`
+* `arxiv`
+* `genius`
 
 ---
 
